@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+movie-detectives-server_latest.tar.gz
+.env
+googlecloud_gemini.json
